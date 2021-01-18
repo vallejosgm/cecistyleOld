@@ -1,0 +1,158 @@
+/*********************************************Tablet View****************************************************************/
+/*ALL devices tablet*/
+@media (min-width: 768px) and (max-width: 1024px) {
+    .email, .phone {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    #section-introduce {
+        display: flow-root;
+    }
+
+    .video-introduce, .testimonial-introduce {
+        width: 100%;
+        padding-top: 50px;
+    }
+
+    .img-service {
+        width: 100%;
+    }
+
+    #container-style-text {
+        width: 93%;
+        font-size: 12px;
+    }
+
+    #container-style-text h4 {
+        font-size: 16px;
+    }
+}
+
+/*IPad Portrait*/
+@media (min-width: 768px) and (max-width: 896px) and (orientation: portrait) {
+}
+
+/*IPad Landscape*/
+@media (min-width: 897px) and (max-width: 1195px) and (orientation: landscape) {
+}
+
+/*IPad Pro Portrait*/
+@media (min-width: 897px) and (max-width: 1024px) and (orientation: portrait) {
+}
+
+/*IPad Pro Landscape*/
+@media (min-width: 1196px) and (max-width: 1537px) and (orientation: landscape) {
+}
+
+/*********************************************Mobile View****************************************************************/
+/* ALL devices mobile */
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .logo {
+        width: 172px;
+        height: 122px;
+        left: 25px;
+    }
+
+    .top-bar {
+        margin: 12px 0 0 221px;
+        border-bottom-left-radius: 20px;
+        border-top-left-radius: 20px;
+        background: #F692BC;
+        padding: 14px 0;
+        font-size: 13px;
+        line-height: 11px
+    }
+
+    .pull-left {
+        font-size: 12px;
+    }
+
+    #section-introduce {
+        display: flow-root;
+    }
+
+    .video-introduce, .testimonial-introduce {
+        width: 100%;
+        padding-top: 50px;
+        text-align-last: center;
+    }
+
+    .img-service {
+        width: 100%;
+    }
+
+    #container-style-text {
+        width: 93%;
+        font-size: 10px;
+        padding-left: 60px;
+    }
+
+    #container-style-text h4 {
+        font-size: 14px;
+    }
+
+    .img-testimonial {
+        height: 115px !important;
+        width: 115px !important;
+    }
+
+    .layout-customer-testimonial {
+        padding-left: 6%;
+    }
+
+    .testimonial-content {
+        max-height: 159px;
+    }
+}
+
+/*Galaxy S7Edge, S7, S6, S5, S4, S4 Mini, S3, Note 4, Note 3, Note 2, LG G4, LG G3, Nexus 5, Pantech Vega n6, Lenovo K 900,
+ ZTE Grand S, HTC One, HTC Evo 3D, Sony XPeria Z, Sony XPeria S, Sony Xperia P, Xiaomi Mi 4, Xiaomi Mi 3, Blackberry Z30, Portrait*/
+/*@media screen and (min-device-width : 360px) and (max-device-width : 360px) and (min-device-height : 640px) and
+(max-device-height : 640px) and (min-width: 360px) and (max-width: 360px)*/
+@media (min-width: 341px) and (max-width: 368px) and (orientation: portrait) {
+}
+
+/*Galaxy S7Edge, S7, S6, S5, S4, S4 Mini, S3, Note 4, Note 3, Note 2, LG G4, LG G3, Nexus 5, Pantech Vega n6, Lenovo K 900,
+ ZTE Grand S, HTC One, HTC Evo 3D, Sony XPeria Z, Sony XPeria S, Sony Xperia P, Xiaomi Mi 4, Xiaomi Mi 3, Blackberry Z30, Landscape*/
+/*@media screen and (min-device-width : 640px) and (max-device-width : 640px) and (min-device-height : 360px) and
+(max-device-height : 360px) and (min-width: 640px) and (max-width: 640px)*/
+@media (min-width: 561px) and (max-width: 767px) and (orientation: landscape) {
+}
+
+/*IPhoneX, 11 Pro, Xs Portrait*/
+/*@media screen and (min-device-width : 375px) and (max-device-width : 375px) and (min-device-height : 812px) and
+(max-device-height : 812px) and (min-width: 375px) and (max-width: 375px)*/
+@media (min-width: 369px) and (max-width: 395px) and (orientation: portrait) {
+}
+
+/*IPhoneX, 11 Pro, Xs Landscape*/
+/*@media screen and (min-device-width : 812px) and (max-device-width : 812px) and (min-device-height : 375px) and
+(max-device-height : 375px) and (min-width: 812px) and (max-width: 812px)*/
+@media (min-width: 768px) and (max-width: 854px) and (orientation: landscape) {
+}
+
+/*IPhoneXR, 11 Pro Max, Xs Max, 11, Xs, XR, Breakpoint 414px  Portrait*/
+/*@media screen and (min-device-width : 414px) and (max-device-width : 414px) and (min-device-height : 896px) and
+(max-device-height : 896px) and (min-width: 414px) and (max-width: 414px)*/
+@media (min-width: 396px) and (max-width: 447px) and (orientation: portrait) {
+
+}
+
+/*IPhoneXR, 11 Pro Max, Xs Max, 11, Xs, XR, Breakpoint 414px  Landscape*/
+/*@media screen and (min-device-width : 896px) and (max-device-width : 896px) and (min-device-height : 414px) and
+(max-device-height : 414px) and (min-width: 896px) and (max-width: 896px)*/
+@media (min-width: 855px) and (max-width: 896px) and (orientation: landscape) {
+}
+
+/*IPhone 3, 4, 4s, ZTE Open(FireFox OS), HTC 8x, Lumia 1020, Lumia 925, Lumia 920, Lumia 900, Lumia 830, Lumia 620  Portrait*/
+/*@media screen and (min-device-width : 320px) and (max-device-width : 320px) and (min-device-height : 480px) and
+(max-device-height : 480px) and (min-width: 320px) and (max-width: 320px)*/
+@media (min-width: 320px) and (max-width: 340px) and (orientation: portrait) {
+}
+
+/*IPhone 3, 4, 4s, ZTE Open(FireFox OS), HTC 8x, Lumia 1020, Lumia 925, Lumia 920, Lumia 900, Lumia 830, Lumia 620  Landscape*/
+/*@media screen and (min-device-width : 480px) and (max-device-width : 480px) and (min-device-height : 320px) and
+(max-device-height : 320px) and (min-width: 480px) and (max-width: 480px)*/
+@media (min-width: 448px) and (max-width: 560px) and (orientation: landscape) {
+}

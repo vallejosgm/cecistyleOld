@@ -1,0 +1,196 @@
+html {
+    font-family: sans-serif;
+    color: white;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.content-fill {
+    max-width: 100%;
+    opacity: 0.3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    -webkit-animation: feature-bg-anim .6s ease-in-out;
+    animation: feature-bg-anim .6s ease-in-out;
+}
+
+#siteWrapper {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: "europa";
+    font-size: 16px;
+    letter-spacing: .5px;
+    font-weight: 300;
+    font-style: normal;
+    color: #1f1f1f;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    line-height: 1em;
+    background-color: #201a16;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+}
+
+#header {
+    position: absolute;
+    padding: 0 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    line-height: 1em;
+    background-color: #201a16;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+}
+
+#header a {
+    text-decoration: none;
+}
+
+.header-inner {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-animation: header-anim 1s ease-in-out;
+    animation: header-anim 1s ease-in-out;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: auto;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+}
+
+.logoWrapper {
+    width: 150px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.logoImage {
+    margin: 0;
+    font-size: 0;
+    max-width: 100%;
+    width: 150px;
+}
+
+.logoImage a {
+    display: block;
+}
+
+.collection {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding-right: 2em;
+}
+
+#headerNav {
+    width: 100%;
+    float: right;
+    text-align: right;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+mainNavWrapper {
+    width: 100%;
+}
+
+.descWrapper {
+    -webkit-animation: feature-text-anim .75s ease-in-out;
+    animation: feature-text-anim .75s ease-in-out;
+    z-index: 100;
+    position: relative;
+    width: 100%;
+    max-width: 956px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 32px;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    margin-top: auto;
+    margin-bottom: auto;
+    top: 180px;
+}
+
+.descWrapper p {
+    white-space: pre-wrap;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0px;
+    text-transform: none;
+    line-height: 1.5em;
+    font-family: "futura-pt";
+    font-size: 28px;
+    line-height: 1.3em;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 300;
+    font-style: normal;
+    color: #9c9999;
+    margin: 20px auto;
+    -webkit-transform: translatez(0);
+}
+
+.descWrapper p > strong {
+    display: block;
+    font-weight: 400;
+    font-size: 48px;
+    font-family: "futura-pt";
+    line-height: 1em;
+    font-size: 86px;
+    line-height: 1.1em;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    color: #fff;
+}
+
+.collection a {
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-family: "futura-pt";
+    font-size: 13px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 1em;
+    color: #fff;
+}
+

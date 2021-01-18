@@ -1,0 +1,40 @@
+{
+  "name": "cecistyle",
+  "version": "0.1.0",
+  "homepage": "https://www.cecistyle.org",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.10.1",
+    "jquery": "^3.4.1",
+    "material-ui": "^0.20.2",
+    "material-ui-core": "^5.0.1",
+    "moment": "^2.26.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.1.1",
+    "react-simple-video-player": "^1.0.0",
+    "react-svg": "^10.0.22"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

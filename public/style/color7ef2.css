@@ -1,0 +1,310 @@
+.dropdown,
+.btn-dropdown {
+    background: none;
+}
+
+.email,
+.phone,
+.email em a,
+.btn-dropdown {
+    color: white;
+}
+
+.dropdown-menu > li > a:focus,
+.banner-topten h2 span,
+.small-theme-btn,
+.small-theme-btn:hover,
+.col.info .social-icon li a,
+.aboutus .social-icon li a,
+.about-area .social-icon li a,
+.about-area .social-icon li a i,
+.them-pagination ul.pagination li.btn-prev a,
+.them-pagination ul.pagination li.btn-next a,
+.them-pagination ul.page-numbers li a.prev,
+.them-pagination ul.page-numbers li a.next,
+#nav .dropdown-menu > .active > a,
+#nav .dropdown-menu > .active > a:focus,
+#nav .dropdown-menu > .active > a:hover,
+#nav ul li ul li a:hover,
+button.close:hover,
+button.close:focus,
+button.close,
+.dropdown-menu > li > a:hover, .theme-btn {
+    color: #fff;
+}
+
+#nav ul li a, .theme-btn:hover,
+.theme-btn, .section-heading:before,
+.social-icon, #nav ul li a:focus,
+.heading,
+.cart-badge .corner:before,
+.topten-product:hover h2,
+.topten-product:hover a,
+.social-icon li a i,
+.address .address-info li i,
+.address .address-info li em a,
+.product-color strong.label,
+.product-size strong.label,
+.date-reply span a,
+#nav ul li a:hover {
+    color: #23232d;
+}
+
+.social-icon li a i {
+    color: white;
+}
+
+.social-icon #header-social-icon {
+    color: black;
+}
+
+.social-icon li a i :hover {
+    color: black;
+}
+
+.social-icon i:hover {
+    color: white !important;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:focus,
+.dropdown-menu > .active > a:hover {
+    background: none;
+    color: #555 !important;
+}
+
+.navbar-toggle {
+    background: #fff;
+}
+
+.border-center:after {
+    background: #474747;
+}
+
+.slider-caption .description {
+    color: #474747;
+}
+
+.small-theme-btn,
+.aboutus .social-icon li a,
+.about-area .social-icon li a {
+    background: #23232d;
+}
+
+.theme-btn {
+    background: rgb(254, 55, 162);
+}
+
+.social-icon li a:after {
+    background: #ffffff;
+}
+
+.section-heading:before, .section-heading:after {
+    background: #555
+}
+
+.frame-img:after,
+.frame-img:before,
+.getstarted .theme-btn,
+.frame-img img {
+    border-color: #555;
+}
+
+.aboutus .section-heading .heading,
+.aboutus {
+    background: #f7f7f7;
+}
+
+.them-pagination ul.pagination li.btn-prev a,
+.them-pagination ul.pagination li.btn-next a,
+.them-pagination ul.page-numbers li a.prev,
+.them-pagination ul.page-numbers li a.next,
+.border-left:after {
+    background: #363636;
+}
+
+.img-hover {
+    background: rgba(35, 35, 45, 0.85);
+}
+
+.tg-product:hover .cart-badge .corner:before,
+.tg-product:hover .cart-badge .corner:after {
+    color: #fff;
+}
+
+.footer-description {
+    background: #F692BC;
+    color: white;
+}
+
+.payment {
+    background: #1e1e1e;
+}
+
+.backtomain,
+.them-pagination ul.pagination li a,
+.them-pagination ul.page-numbers li a,
+.btn-readmore,
+.btns-post .btn-prevpost,
+.btns-post .btn-nextpost,
+.payment ul li i {
+    color: rgb(64, 86, 159);
+}
+
+.product-size ul li a {
+    border: 2px solid #d3d3d3;
+    color: #d3d3d3;
+}
+
+.product-size ul li.xxl a {
+    border-color: #484848;
+}
+
+.product-color ul li a {
+    background: #5c9acd;
+}
+
+.product-color ul li:nth-child(2) a {
+    background: #c249a6;
+}
+
+.product-color ul li:nth-child(3) a {
+    background: #9db543;
+}
+
+#sync2 .item img,
+#sync1 {
+    border-color: #bdbdc0;
+}
+
+.instructions-icons i {
+    border: 2px solid #cdcdcd;
+    color: #cdcdcd;
+}
+
+.product-tab-data.owl-theme .owl-controls .owl-buttons div:hover {
+    background: none;
+}
+
+.product-tabs .item {
+    border-color: #919196;
+}
+
+button.close:hover,
+button.close:focus,
+button.close {
+    border: 1px solid #fff;
+}
+
+.table-responsive .table thead {
+    background: #f1f1f1
+}
+
+.newsletter .content-box .btn-getstarted,
+.modal-dialog .tg-product .btn-addtocart,
+table.cart-table thead {
+    background: #3d3d3d;
+    color: #fff;
+}
+
+/********************** Dynamic Color Section ******************/
+.price_slider_wrapper .button:hover, #nav ul li ul li:before,
+.theme-btn:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover,
+.small-theme-btn:hover,
+.col.info .social-icon li a:hover,
+.social-icon li a:hover,
+.aboutus .social-icon li a:hover,
+.navbar-toggle .icon-bar,
+.breadcrumbs,
+.about-area .social-icon li a:hover,
+.post:hover .border-left:after,
+.them-pagination ul.pagination li.btn-prev a:hover,
+.them-pagination ul.pagination li.btn-next a:hover,
+.them-pagination ul.page-numbers li a.prev:hover,
+.them-pagination ul.page-numbers li a.next:hover,
+.about-author .border-left:after,
+#nav ul li a:after,
+.ui-slider-range.ui-widget-header.ui-corner-all,
+.ui-slider-handle.ui-state-default.ui-corner-all,
+.ui-slider-handle, .onsale,
+.price-tag .price-holder,
+.skill-bar {
+    background: rgb(64, 86, 159);
+}
+
+#nav.affix, .slider-caption h1 span,
+#bar {
+    background: rgb(255, 150, 200);
+}
+
+.banner-productpage em, .banner-productpage h1, .email em a:hover,
+.tg-product:hover .detail .title,
+.topten-product h2,
+.banner-topten h2,
+.col.formation ul li:after,
+.address-info li em a,
+.payment ul li i:hover,
+.address-info li em a:focus,
+.backtomain:hover,
+.address .address-info li em a:hover,
+.post h3:hover a,
+.btn-readmore:hover,
+.btns-post .btn-prevpost,
+.btns-post .btn-nextpost,
+.about-author .author-name,
+.topten-product a,
+.tg-product span.title a:hover,
+.widget.category ul li a:hover,
+.widget.category ul li a:hover:after,
+.widget ul li .post-title a:hover,
+.stars i.fa-star,
+.product-tabs .item a:hover,
+.product-tab-data .owl-controls .owl-buttons div:hover,
+.product-tabs .synced .item a,
+.button-box a:hover,
+.product-btns ul li a:hover,
+.widget.twitter ul li .post-title a,
+.button-box li span:hover,
+.dropdown-menu.cart-item strong.title,
+.dropdown-menu.cart-item .cart-list li .detail span.quantity,
+.table-responsive .table thead,
+.table-responsive .table tbody tr td:first-child,
+table.cart-table tbody td[data-title="Stock Status"],
+.author-name a,
+body.home .address .address-info li i,
+.address-info li i, .woocommerce-tabs a:hover {
+    color: rgb(255, 150, 200);
+}
+
+.slider-caption .title {
+    color: rgb(255, 150, 200);
+}
+
+table.cart-table tbody td img, .product-size ul li.l a,
+.product-size ul li.xl a, .them-pagination ul.pagination li.active a,
+.them-pagination ul.pagination li a:hover, .them-pagination ul.page-numbers li.active a,
+.them-pagination ul.page-numbers li a:hover, .tg-product:hover .cart-badge .corner:before,
+.tg-product:hover .cart-badge .corner:after,
+.col.formation ul li:after,
+.navbar-toggle,
+.comment-heading,
+.dropdown-menu.cart-item .cart-list li,
+.dropdown-menu.cart-item,
+button.close, .price_slider_wrapper .button:hover, .woocommerce-tabs li.active a, .panel, .woocommerce-tabs ul li,
+.commentlist li.comment, .shop-form fieldset select:focus,
+.shop-form fieldset textarea:focus,
+.shop-form fieldset input[type="text"]:focus,
+.shop-form fieldset input[type="email"]:focus, .price-tag .price-holder::after {
+    border-color: rgb(255, 150, 200) !important;
+}
+
+.tg-product:hover .cart-badge .corner::after, .tg-product {
+    border-left-color: transparent !important;
+}
+
+.price-tag .price-holder::after {
+    border-bottom-color: transparent !important;
+    border-top-color: transparent !important;
+}

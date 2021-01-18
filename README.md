@@ -12,5 +12,5 @@ If you want to see the web in action you'll see www.cecistyle.org
 
 Good luck!
 
-## Challenge! (Not Required)
+## About the web
 With the help of Node JS the webpage is make in HTML, CSS, JavaScript and any library and frameworks as React and plugins of wordpress.

@@ -1,6 +1,5 @@
 # Cecistyle
-This app should be able to add TODOs and track the number of total
-TODOs as well as the number of unchecked TODOs.
+This website is dedicated a fashion design publicity.
 
 ## Instructions
 Inside of [public folder, you'll find some folders as images, js files, style folders, 

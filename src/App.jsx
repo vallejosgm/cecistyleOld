@@ -52,7 +52,7 @@ export default class App extends Component {
                                         </li>
                                         <li id="menu-item-22">
                                             <NavLink exact className="nav-link"
-                                                     activeClassName="nav-link nav-link-active" to="/getAppointment">Get
+                                                     activeClassName="nav-link nav-link-active" to="/getAppointment">Book
                                                 Appointment</NavLink>
                                         </li>
                                         <li id="menu-item-22">
